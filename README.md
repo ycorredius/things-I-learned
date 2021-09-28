@@ -7,3 +7,13 @@ This is a simple repo that I have learned or am working on.
 * [Moment Captured](https://github.com/ycorredius/moment_captured "Moment Captured Home")
 * [Thought Express](https://github.com/ycorredius/thought-express "Thought express Home")
 * [NYTimes React](https://github.com/ycorredius/nytimes_react "NYTimes React Home")
+
+## Current Learning objectives 
+
+1. Better understanding of designing model schema. 
+2. Deeper understanding of **Ruby on Rails** models e.g. scopes, querys, proper methods.
+3. Learn integrationa and unit testing. 
+4. Deeper understanding of **reactjs**. 
+5. Learn **nodejs**.
+6. Learn **mongdb**. 
+7. Dive deeper into how git functions in the command line. 
