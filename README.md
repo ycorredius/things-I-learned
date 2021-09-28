@@ -7,6 +7,7 @@ This is a simple repo that I have learned or am working on.
 * [Moment Captured](https://github.com/ycorredius/moment_captured "Moment Captured Home")
 * [Thought Express](https://github.com/ycorredius/thought-express "Thought express Home")
 * [NYTimes React](https://github.com/ycorredius/nytimes_react "NYTimes React Home")
+* [Twitch Bot]
 
 ## Current Learning objectives 
 
@@ -17,3 +18,4 @@ This is a simple repo that I have learned or am working on.
 5. Learn **nodejs**.
 6. Learn **mongdb**. 
 7. Dive deeper into how git functions in the command line. 
+
