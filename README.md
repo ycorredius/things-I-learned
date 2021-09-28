@@ -7,7 +7,7 @@ This is a simple repo that I have learned or am working on.
 * [Moment Captured](https://github.com/ycorredius/moment_captured "Moment Captured Home")
 * [Thought Express](https://github.com/ycorredius/thought-express "Thought express Home")
 * [NYTimes React](https://github.com/ycorredius/nytimes_react "NYTimes React Home")
-* [Twitch Bot]
+* [Twitch Bot](https://github.com/ycorredius/twitch-bot "Twitch Bot")
 
 ## Current Learning objectives 
 
