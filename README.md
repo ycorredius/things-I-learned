@@ -1,5 +1,5 @@
 # Things I am learning
-This is a simple repo that I have learned or am working on. 
+This is a simple repo that I have learned and am working on. 
 
 ## Current projects
 
