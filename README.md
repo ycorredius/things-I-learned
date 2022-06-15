@@ -11,11 +11,8 @@ This is a simple repo that I have learned and am working on.
 
 ## Current Learning objectives 
 
-1. Better understanding of designing model schema. 
-2. Deeper understanding of **Ruby on Rails** models e.g. scopes, querys, proper methods.
-3. Learn integrationa and unit testing. 
-4. Deeper understanding of **reactjs**. 
-5. Learn **nodejs**.
-6. Learn **mongdb**. 
-7. Dive deeper into how git functions in the command line. 
+- Better understanding of designing model schema. 
+- Deeper understanding of **Ruby on Rails** models e.g. scopes, querys, proper methods.
+- Learn integrationa and unit testing. 
+- Dive deeper into how git functions in the command line. 
 
