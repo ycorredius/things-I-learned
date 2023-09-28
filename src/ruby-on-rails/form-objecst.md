@@ -10,7 +10,7 @@ Primary benefits:
 2. Resusablity - Forms are flexible and not set to be used by specific models.
 3. Customization - Form objects allow custom validations and complex form logic to be encapsulated within an object.
 
-```
+```ruby
   class FooForm
     include ActiveModel::model
     attr_accessor :bar, :bar2, :bar3
@@ -27,7 +27,7 @@ Primary benefits:
   end
 ```
 
-```
+```ruby
   class FooController < ApplicatonController
     def new
       @foo_form = FooForm.new
