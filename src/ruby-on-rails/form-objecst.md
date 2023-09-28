@@ -36,9 +36,9 @@ Primary benefits:
     def create
       @foo_form = FooForm.new(foo_form_params)
       if @foo_form.save
-        #### It works
+        # It works
       else 
-        #### Boo didn't work
+        # Boo didn't work
       end
     end
 
